@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: westrailers@yahoo.com, mantablefish@gmail.com
-At: 2026-09-16 13:14:34
-Id: 7q6Xjl4Q
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: snk356@aol.com, tkdnina@yahoo.com
+At: 2026-09-16 13:15:13
+Id: nsVAXklE
